@@ -750,3 +750,8 @@ content:
         - name: 携程设计委员会
           description: 携程设计委员会-Ctrip Design Committee
           url: http://ued.ctrip.com/
+    - name: custom
+      sites:
+        - name: p1
+          description: p1
+          url: https://tubesafari.com/
