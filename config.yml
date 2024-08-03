@@ -752,6 +752,9 @@ content:
           url: http://ued.ctrip.com/
     - name: custom
       sites:
-        - name: p1
-          description: p1
+        - name: tubesafari
+          description: tubesafari
           url: https://tubesafari.com/
+        - name: spankbang
+          description: spankbang
+          url: https://spankbang.com/
